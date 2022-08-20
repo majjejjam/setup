@@ -21,3 +21,7 @@ git checkout beta
 cd ..
 
 echo "Add ILoveCandy, uncomment Color and ParalellDownloads = 5 to /etc/pacman.conf"
+
+# Change shell to zsh
+echo "Changing shell to zsh"
+chsh -s /bin/zsh
