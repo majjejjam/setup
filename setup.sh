@@ -25,3 +25,6 @@ echo "Add ILoveCandy, uncomment Color and ParalellDownloads = 5 to /etc/pacman.c
 # Change shell to zsh
 echo "Changing shell to zsh"
 chsh -s /bin/zsh
+
+# Load dconf settings
+dconf load / < saved_settings.dconf
