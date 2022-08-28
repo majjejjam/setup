@@ -39,7 +39,6 @@ reflector
 ripgrep
 rsync
 rust-analyzer
-rustup
 sof-firmware
 starship
 sudo
