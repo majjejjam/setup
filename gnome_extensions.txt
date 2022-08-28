@@ -1,0 +1,15 @@
+nightthemeswitcher@romainvigier.fr
+caffeine@patapon.info
+extensions-sync@elhan.io
+burn-my-windows@schneegans.github.com
+color-picker@tuberry
+desktop-cube@schneegans.github.com
+just-perfection-desktop@just-perfection
+dash-to-panel@jderose9.github.com
+blur-my-shell@aunetx
+gnome-ui-tune@itstime.tech
+tiling-assistant@leleat-on-github
+hotedge@jonathan.jdoda.ca
+rounded-window-corners@yilozt
+material-you-theme@asubbiah.com
+quick-settings@fmuellner.gnome.org
