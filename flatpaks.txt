@@ -36,15 +36,7 @@ org.audacityteam.Audacity
 org.gimp.GIMP
 org.gnome.Crosswords
 org.gnome.EasyTAG
-org.gnome.Fractal.Devel
-org.gnome.Loupe.Devel
-org.gnome.NautilusDevel
 org.gnome.Solanum
-org.gnome.design.AppIconPreview
-org.gnome.design.Contrast
-org.gnome.design.Emblem
-org.gnome.design.IconLibrary
-org.gnome.design.Typography
 org.gnome.gitlab.YaLTeR.Identity
 org.gnome.gitlab.YaLTeR.VideoTrimmer
 org.nickvision.tagger
