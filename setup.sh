@@ -6,10 +6,11 @@ sudo pacman -S --needed base-devel
 git clone https://aur.archlinux.org/paru.git && cd paru
 makepkg -si
 cd ..
-sudo pacman -S --needed - < pkglist.txt
+sudo paru -S --needed - < pkglist.txt
 
 # Install flatpaks
 echo 'Installing flatpaks'
+flatpak remote-add --if-not-exists gnome-nightly https://nightly.gnome.org/gnome-nightly.flatpakrepo
 xargs flatpak install -y < flatpaks.txt
 
 # Firefox Gnome Theme
