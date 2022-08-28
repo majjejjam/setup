@@ -34,7 +34,6 @@ net.ankiweb.Anki
 nl.hjdskes.gcolor3
 org.audacityteam.Audacity
 org.gimp.GIMP
-org.gnome.Adwaita1.Demo
 org.gnome.Crosswords
 org.gnome.EasyTAG
 org.gnome.Fractal.Devel
