@@ -11,7 +11,8 @@ sudo paru -S --needed - < pkglist.txt
 # Install flatpaks
 echo 'Installing flatpaks'
 flatpak remote-add --if-not-exists gnome-nightly https://nightly.gnome.org/gnome-nightly.flatpakrepo
-xargs flatpak install -y < flatpaks.txt
+xargs flatpak install -y --or-update < flatpaks.txt
+xargs flatpak install -y --or-update < flatpaks_gnome_nightly.txt
 
 # Firefox Gnome Theme
 echo 'Adding firefox gnome theme'

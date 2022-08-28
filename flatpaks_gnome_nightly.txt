@@ -1,0 +1,3 @@
+org.gimp.GIMP
+org.gnome.Fractal.Devel
+org.gnome.NautilusDevel
