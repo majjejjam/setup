@@ -39,6 +39,7 @@ dotfiles checkout
 
 echo 'keyd…'
 cp default.conf /etc/keyd/default.conf
+sudo systemctl enable keyd && sudo systemctl start keyd
 
 echo 'dark=headers…'
 git clone https://github.com/catvitalio/dark-headers && cd dark-headers
